@@ -1,4 +1,5 @@
 # release_safecryptomining by deathcult456
+BTC donation adresse: 15WnvJt7GCasvWuntB6AJSwVfuG7p5r7Ev
 
 //nécessite .net framework 4.5 pour fonctionner
 
