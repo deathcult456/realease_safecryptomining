@@ -3,6 +3,8 @@ BTC donation adresse: 15WnvJt7GCasvWuntB6AJSwVfuG7p5r7Ev
 
 //nécessite .net framework 4.5 pour fonctionner
 
+permet de managé un rig qui fonctionne sous nicehash(pour l'instant) avec un redemmarage automatique lorsque le rig arrete de miner et l'envoi d'un sms si on est chez free par l'option "notification par sms" dans son espace perso section option.
+
 Fichier de configuration: safecryptomining.exe.config  
 
 Configuration :
