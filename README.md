@@ -1,4 +1,4 @@
-# realease_safecryptomining by deathcult456
+# release_safecryptomining by deathcult456
 
 //nécessite .net framework 4.5 pour fonctionner
 
