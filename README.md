@@ -5,6 +5,12 @@ BTC donation adresse: 15WnvJt7GCasvWuntB6AJSwVfuG7p5r7Ev
 
 permet de managé un rig qui fonctionne sous nicehash(pour l'instant) avec un redemmarage automatique lorsque le rig arrete de miner et l'envoi d'un sms si on est chez free par l'option "notification par sms" dans son espace perso section option.
 
+v1.01 --> add try catch in tick() for check internet connexion
+
+v1.0 --> release
+
+
+
 Fichier de configuration: safecryptomining.exe.config  
 
 Configuration :
