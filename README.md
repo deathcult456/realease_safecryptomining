@@ -1,5 +1,6 @@
 # release_safecryptomining by deathcult456
 BTC donation adresse: 15WnvJt7GCasvWuntB6AJSwVfuG7p5r7Ev
+ethereum donation:  b6f7d015910004953799793fc512309f5fbc0803
 
 //nécessite .net framework 4.5 pour fonctionner
 
