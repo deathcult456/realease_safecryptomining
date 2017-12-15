@@ -5,7 +5,7 @@ ethereum donation:  b6f7d015910004953799793fc512309f5fbc0803
 
 //nécessite .net framework 4.5 pour fonctionner
 
-permet de managé un rig qui fonctionne sous nicehash(pour l'instant) avec un redemmarage automatique lorsque le rig arrete de miner et l'envoi d'un sms si on est chez free par l'option "notification par sms" dans son espace perso section option.
+permet de managé un rig qui fonctionne sous nicehash et nanopool avec un redemmarage automatique lorsque le rig arrete de miner et l'envoi d'un sms si on est chez free par l'option "notification par sms" dans son espace perso section option.
 
 v1.02 --> add pool and version.
 
