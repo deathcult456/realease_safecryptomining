@@ -18,6 +18,9 @@ v1.0 --> release.
 Fichier de configuration: safecryptomining.exe.config  
 
 Configuration :
+
+"pool" value="nanopool" mettre votre pool: "nicehash" ou "nanopool"
+
 "Adresse_BTC" value="BTC_adresse" Adresse bitcoin du miner.
 
 "Worker_name" value="rigName"  nom du worker donner dans nicehash miner attention très important doit respecter la case!
