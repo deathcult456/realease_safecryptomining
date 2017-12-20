@@ -7,6 +7,8 @@ ethereum donation:  b6f7d015910004953799793fc512309f5fbc0803
 
 permet de managé un rig qui fonctionne sous nicehash et nanopool avec un redemmarage automatique lorsque le rig arrete de miner et l'envoi d'un sms si on est chez free par l'option "notification par sms" dans son espace perso section option.
 
+v1.03 --> add "zpool" + "yiimp" 
+
 v1.02 --> add pool and version.
 
 v1.01 --> add try catch in tick() for check internet connexion.
