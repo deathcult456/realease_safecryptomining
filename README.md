@@ -5,7 +5,7 @@ ethereum donation:  b6f7d015910004953799793fc512309f5fbc0803
 
 //nécessite .net framework 4.5 pour fonctionner
 
-permet de managé un rig qui fonctionne sous nicehash et nanopool avec un redemmarage automatique lorsque le rig arrete de miner et l'envoi d'un sms si on est chez free par l'option "notification par sms" dans son espace perso section option.
+permet de manager un rig qui fonctionne sous nicehash et nanopool avec un redemmarage automatique lorsque le rig arrête de miner et l'envoi d'un sms si on est chez free par l'option "notification par sms" dans son espace perso section option.
 
 v1.03 --> add "zpool" + "yiimp" 
 
@@ -31,7 +31,7 @@ Configuration :
 
 "Restart_miner" value="true" redémarre le miner si probleme de minage, mettre FALSE si non utilisé.
 
-"Utiliser_free_sms" value="true" utilise le service de free pour envoyé des sms, mettre FALSE si non utilisé.
+"Utiliser_free_sms" value="true" utilise le service de free pour envoyer des sms, mettre FALSE si non utilisé.
 
 "free_user" value="3x3x3x3" utilisateur donner dans la section option une fois l'option gratuite activée.
 
